@@ -36,7 +36,7 @@ gText_Birch_BoyOrGirl::
 	.string "Or are you a girl?$"
 
 gText_Birch_WhatsYourName::
-	.string "All right.\n"
+	.string "Alright.\n"
 	.string "What's your name?$"
 
 gText_Birch_SoItsPlayer::
@@ -45,12 +45,11 @@ gText_Birch_SoItsPlayer::
 gText_Birch_YourePlayer::
 	.string "Ah, okay!\p"
 	.string "You're {PLAYER}{KUN} who's moving to my\n"
-	.string "hometown of LITTLEROOT.\l"
-	.string "I get it now!\p"
+	.string "hometown of LITTLEROOT. Excellent!\p"
 	.string "$"
 
 gText_Birch_AreYouReady::
-	.string "All right, are you ready?\p"
+	.string "Alright, are you ready?\p"
 	.string "Your very own adventure is about\n"
 	.string "to unfold.\p"
 	.string "Take courage, and leap into the\n"
